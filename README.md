@@ -10,10 +10,10 @@ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/3533
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
 
 <h2> Source/Useful Links</h2>
-  Some articles and reference blogs about the problem statement
-1. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
-2. https://www.youtube.com/watch?v=UwbuW7oK8rk 
-3. https://www.youtube.com/watch?v=qxXRKVompI8
+  Some articles and reference blogs about the problem statement<br>
+1. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25<br>
+2. https://www.youtube.com/watch?v=UwbuW7oK8rk <br>
+3. https://www.youtube.com/watch?v=qxXRKVompI8<br>
 
 <h2> Real-world/Business objectives and constraints.</h2>
 - No low-latency requirement.<br>
