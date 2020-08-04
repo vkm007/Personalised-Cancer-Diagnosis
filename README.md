@@ -16,10 +16,10 @@ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/3533
 3. https://www.youtube.com/watch?v=qxXRKVompI8
 
 <h2> Real-world/Business objectives and constraints.</h2>
-* No low-latency requirement.
-* Interpretability is important.
-* Errors can be very costly.
-* Probability of a data-point belonging to each class is needed.
+- No low-latency requirement.
+- Interpretability is important.
+- Errors can be very costly.
+- Probability of a data-point belonging to each class is needed.
 
 <h3> Data Overview</h3>
 - Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
